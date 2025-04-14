@@ -4,10 +4,5 @@
 платформах для развития навыков реализации алгоритмов (LeetCode, CodeRun, CodeForces)
 
 ### Yandex
-[Тренировки по алгоритмам (осень 2024)](algorithm_training_2024)
-
-### CodeRun
-
-
-### LeetCode
-[LeetCode Patterns](leetcode_patterns)
+[Тренировки по алгоритмам (осень 2024)](algorithm_training_2024)  
+[Тренировки по алгоритмам (весна 2025)](algorithm_training_2025)

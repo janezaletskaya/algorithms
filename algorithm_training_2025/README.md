@@ -1,4 +1,4 @@
-## Тренировки по алгоритмам 6.0 
+## Тренировки по алгоритмам 7.0 
 [Ссылка](https://yandex.ru/yaintern/training/algorithm-training)
 
 ### Правила

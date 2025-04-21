@@ -6,7 +6,7 @@
 
 ### Задачи
 - [Неделя 1: Greedy algorithms and Knapsack problem](week1/README.md)
-
+- [Неделя 2: Segment Trees](week2/README.md)  
 to be continued
 
 ### Результат

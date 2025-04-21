@@ -19,6 +19,7 @@
 
 [Условие →](problem_statements/problem_statement_A.md)  
 [Решение →](A.py)
+
 ---
 
 ## B. Индекс максимума на отрезке

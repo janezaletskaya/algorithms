@@ -8,7 +8,6 @@
 - [Неделя 1: Greedy algorithms and Knapsack problem](week1/README.md)
 - [Неделя 2: Segment Trees](week2/README.md)  
 - [Неделя 3: Bitwise operations, Error-correcting Hamming code, Data compression](week3/README.md)  
-
-to be continued
+- [Неделя 4: Reference data types, Linked Lists, B-Trees](week4/README.md)
 
 ### Результат
